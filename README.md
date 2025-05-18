@@ -9,7 +9,7 @@
 - 🌏 Habitat: **Semarang City Gym**
 - ⏰ Active : **WIB 07:00** (sleeps randomly)
 - 💪 Power level: **Over 0!**
-- 🍕 Weakness: **Air Es** and **Mie Ayam gaza**
+- 🍕 Weakness: **Air Es** and **Mie Ayam **
 
 ## Special Moves
 
