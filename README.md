@@ -7,7 +7,7 @@
 
 ### Stats
 - 🌏 Habitat: **Semarang City Gym**
-- ⏰ Active during: **UTC +07:00** (sleeps randomly)
+- ⏰ Active : **WIB 07:00** (sleeps randomly)
 - 💪 Power level: **Over 0!**
 - 🍕 Weakness: **Air Es** and **Mie Ayam gaza**
 
