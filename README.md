@@ -1,4 +1,4 @@
-# 👋 Wild YUNIAR Appeared!
+# 👋 Wild Yuniar Appeared!
 
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.gif" width="100" align="right"/>
 
@@ -8,8 +8,8 @@
 ### Stats
 - 🌏 Habitat: **Semarang City Gym**
 - ⏰ Active during: **UTC +07:00** (sleeps randomly)
-- 💪 Power level: **Over 9000!**
-- 🍕 Weakness: **Pizza** and **Deadline Panic**
+- 💪 Power level: **Over 0!**
+- 🍕 Weakness: **Air Es** and **Mie Ayam gaza**
 
 ## Special Moves
 
