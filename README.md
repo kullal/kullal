@@ -1,6 +1,6 @@
 # 👋 Wild Yuniar Appeared!
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.gif" width="100" align="right"/>
+<img src="https://www.gifcen.com/wp-content/uploads/2023/03/pokemon-gif-1.gif" width="100" align="right"/>
 
 ## Pokedex Entry #007
 *"This rare specimen will give EVERYTHING for NOTHING! Extremely dangerous when caffeinated."*
