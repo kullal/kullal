@@ -1,4 +1,4 @@
-# 👋 Wild RISKI YUNIAR Appeared!
+# 👋 Wild YUNIAR Appeared!
 
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.gif" width="100" align="right"/>
 
