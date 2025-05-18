@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Wild RISKI YUNIAR Appeared!
 
-<!--
-**kullal/kullal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.gif" width="100" align="right"/>
 
-Here are some ideas to get you started:
+## Pokedex Entry #007
+*"This rare specimen will give EVERYTHING for NOTHING! Extremely dangerous when caffeinated."*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stats
+- 🌏 Habitat: **Semarang City Gym**
+- ⏰ Active during: **UTC +07:00** (sleeps randomly)
+- 💪 Power level: **Over 9000!**
+- 🍕 Weakness: **Pizza** and **Deadline Panic**
+
+## Special Moves
+
+### 🔮 MazeMaker
+*A powerful spell that creates mazes using the ancient Djisktra technique!*
+- Damage: ⭐⭐⭐
+- Python-type attack
+- [View this legendary scroll](https://github.com/kullal/MazeMaker)
+
+### 🔮 Premier-League-Prediction
+*Can predict football outcomes with the mystical XGBoost power!*
+- Accuracy: "Works 60% of the time, every time!"
+- [Ancient prediction texts](https://github.com/kullal/Premier-League-Prediction-Using-XGBoost)
+
+### 🔮 Pangory Collaboration
+*Joined forces with the mighty ihsan31415 to create ultimate Python magic!*
+- [Secret collaboration chamber](https://github.com/ihsan31415/pangory)
+
+## Communication Channels
+- 📱 Send a Pokemail: [yu_niar007](https://www.instagram.com/yu_niar007)
+- 📘 Ancient Facebook scrolls: [riski.yuniar.52](https://www.facebook.com/riski.yuniar.52)
+
+## Evolution Progress
+
+*"I'm not procrastinating, I'm just waiting for my code to compile... for 3 days."*
+
+## Trainer Info
+- Caught: **3** followers
+- Befriended: **5** legendary coders
+- Defeated: Countless bugs and one coffee machine
+
+*To catch this Pokemon, throw your best project collaboration request!*
