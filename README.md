@@ -1,3 +1,12 @@
+<!--
+👋 Welcome to your GitHub Profile README!
+📝 Customize the sections below with your own information:
+   - Update social media links in the "Connect With Me" section
+   - Modify the "About Me" section with your actual interests and goals
+   - Adjust the technology badges to match your tech stack
+   - The GitHub username is already set to "kullal" throughout
+-->
+
 <div align="center">
   
 # 👋 Hi, I'm Kullal!
@@ -87,9 +96,10 @@ I'm a passionate developer who loves building innovative solutions and exploring
 
 <div align="center">
 
+<!-- Update the links below with your actual social media profiles -->
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kullal)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kullal)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kullal)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-username)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-username)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 </div>
