@@ -93,6 +93,8 @@ const currentlyWorkingOn = {
 
 ## 📫 Let's Connect!
 
+<!-- Update the links below with your actual contact information -->
+
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/kullal)
